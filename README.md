@@ -1,2 +1,2 @@
 # Screen Capture Using openCV-demo
-This is my first Git Repository
+Added functionality for real-time full-screen capture. Updated the main execution loop to handle continuous screen capturing process.
